@@ -1,0 +1,183 @@
+SmartInternz : Assignment 1(Internet of Things)
+
+ 20 use cases of the Internet of Things.
+	 
+1) Autonomous and Connected Vehicles
+ 
+Down the road, vehicles might be able to reach Level 5 autonomy and drive themselves fully without human intervention. Today, however, car makers and automotive startups are working on getting level 2, 3, and 4 self-driving technology right. Cameras, radar, LIDAR and a host of other onboard sensors are being used to capture information about road conditions, inform appropriate driving actions, and potentially prevent accidents. To make this happen, nearly 1 terabyte of data will be stored onboard in the near-term, and this amount could balloon to 2+ terabytes in the next decade.
+Yet, there’s more to the cars of tomorrow than just autonomous driving. Thanks to the Internet of Things, cars can communicate with each other, the road infrastructure, and, perhaps someday, even pedestrians by using “vehicle-to-everything” or “V2X” technology. Fleets of autonomous vehicles could be managed through this type of communication, making travel faster and safer. Onboard the car, IoT-enabled devices could improve the engine diagnostics, GPS data, and infotainment system.
+
+2)Smart Security for Businesses and Homes
+
+
+Historically, security systems often simply used a low-resolution camera to passively capture video. This trend held whether at private residences or commercial properties. Now, smart security systems are being purpose-built to capture, store, and analyze continuous video streams. On top of the 4K video captured by high-resolution cameras, these systems can use an analytics layer with machine learning software to carry out pattern recognition and motion detection. For public transportation providers and venue managers, these real-time insights play a meaningful role in public safety – thanks to robust storage and compute at the device-level.
+ 
+3) Connecting Your Home to the Internet (of Things)
+
+
+What if your home could be mostly automated? That’s the direction that connected home technology is headed in this IoT use case. Smart speakers function like central command, enabling your household electronics to perform a variety of voice-activated functions. You could, for example, instruct your TV to stream the latest episode of your favorite show, while dimming the living room lights and setting the thermostat to a cozy temperature. This approach stretches even further by integrating refrigerators, washers, dryers, and more. The goal is to provide control for most or all of a home’s systems – including energy, climate, entertainment, appliances, and home security – through a connected network of devices, sensors, tools and platforms.
+4) Smart Watches, Fitness Trackers, and other Wearables
+
+ 
+Thanks to an influx of new personal devices, the wearables market is thriving. In fact, a recent report predicts that this industry will cross over $27 billion and 233 million units sold annually by the year 2022. This global adoption is due in large part to smart watches, which are expected to make up over half of all wearables sold in the coming years. Consumers are looking for seamless connection and interaction between their smartphones and smartwatches to track, manage, and secure their data — especially sensitive health data. At the same time, industry analysts are forecasting flat-to-declining sales for fitness trackers – possibly due to a perceived lack of features and inability to sync with existing smart phones.
+But, technological innovation won’t just come on the wrist. A new subcategory known as “hearables” could disrupt the wearables industry, using voice-activated, connected headphones and earphones. With more headset makers ditching the headphone jack, these types of devices are expected to become common place in the future. Another opportunity is in portable medical devices that monitor blood pressure and heart rate, as well as alert ambulance dispatchers during a medical emergency.
+5) Machine-to-Machine (M2M) Connected Devices
+
+
+Today’s factories are using IoT-enabled machines to work smarter, not harder. By equipping machines with sensors, factory managers can more accurately map machine workloads, inputs, and outputs. They can also more closely track machine wear-and-tear, which leads to maintenance that is predictive rather than reactive and improves lifespan. With these features, factories are increasingly becoming automated, thanks to the wave of Industry 4.0. M2M devices use embedded and removable flash solutions to aggregate data into a single stream at the edge. This gateway is used to monitor and react to changing conditions on the factory floor. At the same time, unused data is passed on to the central cloud or data center for further processing.
+
+
+6) Supply Chains of the Future
+
+
+Another IoT use case is in supply chains, which are increasingly global and complex. Customer requirements evolve rapidly, products have to be procured, shipping and delivery routes have to be coordinated – you get the picture. In response, companies are creating connected enterprise systems and using data modeling as a key part of a broader data management strategy. Low-power IoT devices are also being used to track assets throughout the supply chain, and monitor product quality such as temperature, vibration and container openings. By using IoT-enabled devices and transportation routes, further improvements can be made to route planning by collecting in-transit, supply chain data.
+
+Our previous blog post explored how Western Digital is building its future supply chain with data science – leading to better shipment consolidation, reliability, cost, and time in transit.
+
+7) Drones for Industrial and Search & Rescue Operations
+
+
+For cinematographers and photographers, drones have helped record stunning landscapes previously unavailable to visual artists. But, these flying devices aren’t just used for this purpose. Oil rig workers are using drones to complete full rig inspections quicker, without sacrificing worker safety or production downtime. Ecommerce companies are looking into drone delivery of their buyers’ goods to their front doorstep. Even nonprofits are making use of drones to monitor deforestation in environmentally-fragile communities.
+
+Outside of commercial uses, drones are serving the public good in search and rescue missions. These machines are helping search and rescue teams locate victims more quickly, evaluate the status of victims, and map the right path for rescue missions. In dangerous mountain rescues, successful drone operations require high performance and high capacity data storage. Read our latest white paper about how reliable storage makes a difference in life-threatening emergencies.
+
+8) Smart Cities: Energy, Transportation, Parking, and More
+
+
+One of the most promising IoT use cases is in creating smarter, more efficient cities. Public energy grids can be optimized to balance workloads, predict energy surges, and distribute energy more equitably to customers. The same goes for transportation systems in dense, urban environments. Traffic lights could be synced using IoT to adapt to traffic conditions in real-time. During an emergency, first responders can communicate with traffic lights to synchronize and provide direct access to critical locations. Another possibility is to digitally track parking, so that available spaces are automatically sent as push notifications to drivers looking for a place to park.
+
+9) Farm to Tech to Table
+
+
+Today’s farmers are bringing the power of IoT to streamline their operations. As the use of free-range livestock becomes widely adopted, connected technology can track animals as they graze in open pastures. Smart sensors placed in irrigation systems can reduce water consumption to create just the right moisture level in soil for a given crop. It’s even being used to watch over factors such as humidity and temperature in composting. Additionally, farmers can keep tabs on their equipment, mapping out where each item is, tracking its performance, and carrying out predictive maintenance. Outside of traditional farms, wine producers are using IoT to understand grapevine health and sugar levels in grapes.
+
+10) Tzoa: Wearable Air Quality Sensor
+
+
+Tzoa is a wearable air quality and UV sensor. It lets users get instant feedback on their environment, contribute to citizen science, and look good doing it.
+
+Behind the triangular, custom-machined metal badge is a tiny fan that moves air through a laser-based optical sensor of proprietary design. Tzoa detects two types of particulate matter (PM) in the air: PM10 and PM2.5. The first includes particles 10 micrometers or smaller, which tend to be allergens like pollen. The second refers to particles 2.5 micrometers or smaller, which includes the stuff found in car exhaust, fine dust, and smoke — particles that are tiny enough and, potentially, toxic enough to cause more serious health problems.
+
+11)Spotify Box: Physical Playlists
+
+
+The Spotify Box is the work of Jordi Parra as part of his final degree project at the Umeå Institute of Design. It was recently given a “Disrupting Concept” award at the 2012 interaction design awards and he is currently working out the details on taking it into the next stage of development.
+
+The prototype device consists of Processing sketch, Arduino and an RFID reader. Each RFID tag can be assigned to a Spotify playlist, album, artist or search. When describing the project Jordi says:
+
+“In a way, it takes a lot from what we used to do with mixtapes but, in this case, the “mixtapes” are RFID tags linking to music online.
+
+The beauty of this project is to bring back the physicality of digital music. Music from Spotify should be shared in a tangible way too, in this case, exchanging tokens linked to Spotify playlists. We used to gossip the music collection of our friends when we were at their places, we used to make mixtapes to our girlfriends… this project tries to bring this nostalgia back while still taking advantage of all the advantages of an online service like Spotify.”
+
+12)Freewrite: Connected WiFi Typewriter
+
+
+For many writers, the personal computer is less a blessing than a curse. While spellcheck, control-Z and revision history may seem like indispensable tools, a computer with an Internet connection is not so much a technological tabula rasa as an inexhaustible distraction machine. But there is, at long last, a way to get all the benefits of digital wordsmithing while retaining the simplicity of the typewriter.
+
+Hemingwrite is the quintessential twenty-first century writer’s tool. Keyboard nerds will rejoice in the tactile feel and clickety-clack sound of the mechanical keyboard, which in the first version at least will be made with Cherry MX Brown switches. The typewriter-shaped aluminum housing also features a 6-inch e-ink display suitable for writing in direct sunlight and several analog toggles for switching between projects and stat displays (word count, time spent writing, etc.).
+
+It’s portable, running on a USB-rechargeable battery for weeks at a time, and has enough internal storage for more than a million pages of text.
+
+There is a Wi-Fi connection, but it’s limited to a single function: syncing your drafts to the cloud for later editing in Evernote, Google Docs or other word processors. With no Internet browser or other apps vying for attention, Hemingwrite provides digital conveniences while keeping you focused on writing. As the creators put it, “The Hemingwrite is designed for one thing and one thing only: putting words on a page.”
+
+13)FreshAir Sensor: Second-Hand Smoke Detector
+
+
+Smart smoke detectors are old hat for Internet of Things, but a smoking detector? That’s new.
+
+FreshAir Sensor Corp. is a Dartmouth College spin-off company making sensors that can detect not just smoke, but specifically tobacco or marijuana smoke. The polymer-based sensors, developed by chemistry professor and company co-founder Joseph BelBruno, are the first of their kind and respond to either nicotine or chemicals in marijuana.
+
+FreshAir is marketing it primarily to hotels, as well as apartment buildings, public housing, jails, and other places where the owners and managers of the building want to maintain a smoke-free environment. The sensor will report any detected smoke via Wi-Fi to FreshAir’s servers, which notify the building managers (and provide a web-based dashboard for configuring and managing the devices).
+
+A wearable, Bluetooth-connected version is also in the works, which will be tailored more toward individual users who want to limit their exposure to second-hand smoke. Both devices include on-board memory to store time-stamped data when the network connection is down.
+
+14)Wifi Lighting
+
+Visible frequencies generated by LED lights are being touted by researchers (See the history of the idea below) as a way to transmit data and supplement our exisiting information networks. Fluctuations of a bulb in a pattern that are imperceptible to the human eye, can be used to generate data transmission at average speeds of 10 megabits per second (and have been shown capable of reaching 100-500 Mbps).
+
+Applications of the technology have the most potential where wireless transmissions cannot currently be used. Immediate benefits could be seen in hospitals, airplanes, hazardous environments, underwater operations, and in the military where the use of the light would enable activity that does not compromise safety and security standards.
+
+15)Gun Safety: RFID Smart Gun
+
+
+Put together the words ‘gun’ and ‘internet,’ and what comes to mind? Probably concerns over 3-D printed guns, which could let just about anybody manufacture cheap but deadly plastic firearms. But some companies are using network technologies to build smart systems that actually improve gun safety.
+
+It’s been a long time coming, as technologies like RFID and biometric sensors have been available for years, but integrating them with firearms has been a challenge. According to a 2013 report from the National Institute of Justice, which has poured tens of millions of dollars into gun safety research, only three companies are anywhere near bringing a realistic solution to the mass market.
+
+16)Smart Helmet: ICEdot Crash Sensor
+
+
+A new innovation called the ICEdot Crash Sensor pairs your bicycle helmet with your smartphone. If you crash and hit your head on pavement, a signal will be sent to the phone to automatically call for help. Think of it as the On Star button for your bicycle helmet.
+
+How does this technology work?
+
+The sensor is mounted onto the helmet and is paired with your smartphone via Bluetooth. Once that sensor smacks with cement — or anything that’s hard (ice, snow, dirt) it uses the devices motion and impact calculations to determine the severity of the crash and initiate the 30-second countdown. If the injury is not bad and you can walk it off, simply cancel that countdown on your phone. If you don’t cancel it, your medical information and GPS coordinates will be sent to your designated emergency contact and you can expect help to be on the way.
+
+The crash sensor isn’t just for bicycles. Snowboarding or any other activities that requires a helmet are being targeted to use the technology.
+
+
+17)Wellness Elderly Monitoring: BeClose Elderly Monitoring
+
+
+BeClose is a company of out of Virginia that is targeting the 10 million Americans over the age of 65 who live alone. One of the goals of the system is to enable those living independently to continue doing so while still providing family and caregivers a peace of mind about their wellbeing. “Has there been no activity in the house for several hours? Has Mom been out of bed for a prolonged period at night?”
+
+BeClose uses a range of sensors placed throughout the home to wirelessly and discreetly track a persons routines. Open/close sensors are attached to doors and cabinets to gauge activity levels and medication usage. Presence sensors are placed beneath mattresses, chairs and even under toilet mats to monitor sleeping, sitting and bathroom use, and finally wall mounted motion sensors are used to track general activity levels throughout a day.
+
+18)Play Metrics: Smart Sensor Racquet
+
+
+Babolat, a French company that has been making tennis equipment since 1875 has unveiled a new racquet called Babolat Play which harnesses sensors embedded in the handle to analyze a player’s game over time.
+
+Developed in a partnership with Movea the racquet utilizes MEMS technology to record the type of shot (forehand/backhand), it’s power and effect (spin/slice), and how often the ball is hitting the sweet spot of the racquet while you play. These details along with information on how long you were active on the court are recorded and wirelessly sent to your tablet or smartphone via Bluetooth for later analysis.
+
+The racquet is meant to improve performance by letting a player or coach set specific goals and chart progress using graphic profiles and data analysis provided by the app and online service. The system adds an optional social element by making it easy to post game play data on social networks, challenge a friend in a side by side stats battle, or see how your numbers line up against the pros.
+
+19)Cooking Hacks Open Garden: Open Source Wireless Garden Kits
+
+
+Open Garden is an Arduino-based DIY kit that has everything you need to create a connected, automated garden. It’s a product of Cooking Hacks, the online IoT component store and open source hobbyist community run by Libelium (See our interview with Alicia Asín Pérez the CEO and co-founder here).
+
+There are three versions of Open Garden available, with sensors and other equipment customized for indoor, outdoor, or hydroponic growing. The core of Open Garden is a gateway that uploads the data to a web server by using any of the available wireless interfaces (WiFi, GPRS, 3G) and communicating to its remote nodes using license free 433MHz wireless radios. By attaching sensors to nodes, the user can collect data on air temperature, humidity, light levels, and either soil moisture or the temperature, pH and conductivity of the hydroponic growing medium. The systems includes an application to visualize real data of all your sensors in a web browser.
+
+20)Smart Waste Management Systems
+Case study:
+
+
+Smart waste bins on the streets of Berlin
+ 
+Michael Tost
+Berliner Stadtreinigungsbetriebe AöR
+michael.tost(at)bsr.de
+
+More than 21,000 waste bins are spread across the streets of Berlin requiring 4.6 million emptyings in a year. There is a big potential for optimisation with respect to positioning of the waste bins, frequency of emptying, route planning and waste bin maintenance.
+
+There are approximately 4,000 employees on the streets who try to describe the position and type of defective waste bins in their individual way. Thus, plenty of misunderstandings resulting in inefficiencies may occur. In order to support the maintenance process, Fraunhofer FOKUS has developed a web-based application, which runs, e.g., on a tablet PC (see figure 1).
+
+The geo-position of the waste bins can be determined and filed by using GPS coordinates and waste bin IDs; maintenance orders can be placed by the logistic department and can be executed by the employees in real time. In addition to that advertising labels on the waste bins can be managed easily.
+
+Fill-level measurement in waste bins
+Fill-level data are required in order to be able to optimise the waste management and removal process. As part of the FP7 research project OutSmart waste bins were deployed with fill-level sensors that sent their data via the Internet to the logistics centre or directly to the approaching lorry (see figure 2).
+
+
+Fill-level data which facilitate the job of employees
+Many big companies in Europe have the problem that the average age of their employees is increasing. At BSR, the waste management utility provider in Berlin, the average age of an employee is 49. Especially in manual labour jobs it is a problem to maintain a high productivity level – also in the future. Therefore a tablet PC application was developed by Ymatron AG which should ease the employees´ job. Thus the employees can easily decide whether it is necessary to stop the lorry and empty the waste bins positioned next to the lorry (see figure 3).
+
+
+
+
+By reducing the amount of stop-and-go during the day, fuel and CO2 emissions of the lorry are reduced. And by avoiding traffic jams behind the lorry it also reduces the fuel consumption of the other traffic participants.
+
+Fill level data which support waste management optimisation
+With the Internet application from Ymatron AG, the collection of fill-level statistics on each single waste bin becomes possible (see figure 4). In turn such statistics enable and support the decision making with respect to the necessary emptying frequency, the positioning and size of the waste bins and the route planning of the lorry.
+
+
+
+
+Conclusion
+Considering the above and the experience accumulated at BSR through the various initiatives we concluded that smart waste bins have a big potential in making the waste management process and the maintenance of the waste collection and removal process more efficient.
+
+In addition to the aspects listed above, essentially covering the value proposition for a waste collection and management utility company, such as BSR the smart waste bin concept also offers advantages to the ordinary citizens, the tourists and the city administration in the form of a cleaner city with less disruptions as a result of waste bins being optimally located in the streets and having the right capacity (garbage bins are always available for use and not filled to the brim) and an optimally designed waste collection process.
+
+Due to the fact that waste management is a low-budget job, the new solution must come at an adequate price. BSR aims to use the available smart waste bins that are equipped with fill level sensors and move them around. Having obtained sufficient statistics over a period of several weeks and moving the bin onto the position of another existing waste bin, the positioning and size of the waste bins in Berlin shall be optimized in a step by step process. Furthermore, BSR plans to use the maintenance application not only for the 21.000 waste bins, but also for the approximately 180.000 gullies in Berlin.
+
+
